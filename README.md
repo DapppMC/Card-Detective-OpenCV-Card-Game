@@ -189,7 +189,7 @@ Pastikan folder `dataset_kartu/` sudah berisi minimal satu file `.jpg` dan kamer
 
 ---
 
-## Tim Pengembang
+## Pengembang
 
 | | |
 |---|---|
